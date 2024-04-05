@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h1>Olá! Eu sou Davi, atualmente desenvolvedor front-end e back-end!</h1>
+  <h1>Olá! Eu sou Davi, atualmente estudante no 3° período da faculdade de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS!</h1>
 </div>
 
 <div align="center">
