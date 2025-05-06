@@ -2,7 +2,6 @@
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribuições 3D" width="74%" />
 </p>
----
 
 <!-- Estatísticas GitHub -->
 <h2 align="center">📊 Estatísticas GitHub</h2>
