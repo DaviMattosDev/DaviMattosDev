@@ -35,5 +35,5 @@
 <h2 align="center">🏆 Conquistas GitHub</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DaviMattosDev&row=1&column=2&theme=black&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DaviMattosDev&row=1&column=2&theme=algolia&margin-w=15&margin-h=15"/>
 </p>
