@@ -1,20 +1,20 @@
 <!-- Visão 3D das contribuições -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribuições 3D" width="74%" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribuições 3D" width="70%" />
 </p>
 
 <!-- Estatísticas GitHub -->
 <h2 align="center">📊 Estatísticas GitHub</h2>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaviMattosDev&theme=algolia" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviMattosDev&theme=algolia&utcOffset=-3" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaviMattosDev&theme=algolia" width="24%"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviMattosDev&theme=algolia&utcOffset=-3" width="24%" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviMattosDev&theme=algolia" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaviMattosDev&theme=algolia" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaviMattosDev&theme=algolia" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviMattosDev&theme=algolia" width="44%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaviMattosDev&theme=algolia"  width="24%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaviMattosDev&theme=algolia" width="24%" />
 </p>
 
 ---
@@ -34,5 +34,5 @@
 <h2 align="center">🏆 Conquistas GitHub</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DaviMattosDev&row=1&column=2&theme=algolia&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DaviMattosDev&row=1&column=2&theme=algolia&margin-w=15&margin-h=15" width="24%"/>
 </p>
