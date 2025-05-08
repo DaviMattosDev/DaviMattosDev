@@ -1,25 +1,31 @@
-name: GitHub-Profile-3D-Contrib
+name: Generate GitHub Profile 3D Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
+  schedule: # Executa todos os dias às 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Permite execução manual
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      # Passo 1: Fazer checkout do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Passo 2: Gerar a imagem 3D das contribuições
+      - name: Generate GitHub Profile 3D Contrib
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+
+      # Passo 3: Commit e push dos arquivos gerados
+      - name: Commit and Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated"; then
-            git push
+          if git commit -m "Generated GitHub Profile 3D Contrib"; then
+            git push https://github-actions:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository }} HEAD:main
           fi
