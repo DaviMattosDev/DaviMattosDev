@@ -1,8 +1,8 @@
 <!-- Visão 3D das contribuições -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Davi%20Mattos&animation=fadeIn&descAlign=62&descAlignY=14&textBg=false&reversal=false&section=header&fontSize=50&fontAlign=46" alt="Contribuições 3D" width="70%" />
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Data+Analyst)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=👨🏻‍💻&animation=twinkling&descAlign=62&descAlignY=14&textBg=false&reversal=false&section=header&fontSize=200&fontAlign=50&fontColor=1E2134B8&rotate=0" width="70%" />
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B85DF7&width=435&lines=I'm+Data+Analyst" alt="Typing SVG" /></a>
   
 </p>
 
