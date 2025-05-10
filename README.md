@@ -1,6 +1,9 @@
 <!-- Visão 3D das contribuições -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribuições 3D" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Davi%20Mattos&animation=fadeIn&descAlign=62&descAlignY=14&textBg=false&reversal=false&section=header&fontSize=50&fontAlign=46" alt="Contribuições 3D" width="70%" />
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Data+Analyst)](https://git.io/typing-svg)
+  
 </p>
 
 <!-- Estatísticas GitHub -->
@@ -8,16 +11,6 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaviMattosDev&theme=algolia" width="24%"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviMattosDev&theme=algolia&utcOffset=-3" width="24%" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviMattosDev&theme=algolia" width="44%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaviMattosDev&theme=algolia"  width="24%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaviMattosDev&theme=algolia" width="24%" />
-</p>
-
----
 
 <!-- Tecnologias que uso -->
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
