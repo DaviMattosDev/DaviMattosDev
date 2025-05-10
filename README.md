@@ -10,7 +10,8 @@
 <h2 align="center">📊 Estatísticas GitHub</h2>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaviMattosDev&theme=algolia" width="24%"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DaviMattosDev&show_icons=true&theme=synthwave" width="34%"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMattosDev&layout=compact&show_icons=true&theme=synthwave" width="24%"  />
 
 <!-- Tecnologias que uso -->
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
