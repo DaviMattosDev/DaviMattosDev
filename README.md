@@ -30,3 +30,12 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DaviMattosDev&row=1&column=2&theme=algolia&margin-w=15&margin-h=15" width="24%"/>
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/93702a5b-98db-4594-ad43-afd161ee6f07"/>
+</p>
+
+
+
+
