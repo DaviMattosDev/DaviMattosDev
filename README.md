@@ -122,22 +122,6 @@
 
 ---
 
-<h2 align="center">🚀 Constantly Evolving</h2>
-
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/93702a5b-98db-4594-ad43-afd161ee6f07" 
-    width="80%" 
-    alt="AI and Data Illustration"
-  />
-</p>
-
-<p align="center">
-  <i>
-    "Uniting artificial intelligence, data, and strategy to create solutions that generate real impact."
-  </i>
-</p>
-
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,12,20,24,30&section=footer" 
